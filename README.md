@@ -17,8 +17,8 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/FxAngga/Bot-wea
-> cd Bot-wea
+> git clone https://github.com/FxAngga/Bot-weaV1
+> cd Bot-weaV1
 > npm cache clear
 > bash install.sh
 > npm audit fix
